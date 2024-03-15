@@ -10,6 +10,7 @@ This project originated from the seminar on [*Advanced Blockchain Technologies*]
 
 # Donate
 BEP - 0x61fEe4591d47105F862cFE15D0c969015e2Fbac5
+
 TRC - TJ8eJtmgQicJR2DdXoANx1JxcU45gpoiWL
 
 Thanks
