@@ -11,4 +11,3 @@ This project originated from the seminar on [*Advanced Blockchain Technologies*]
 # Donate
 
 
-Thank you
