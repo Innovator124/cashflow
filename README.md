@@ -9,9 +9,7 @@
 This project originated from the seminar on [*Advanced Blockchain Technologies*](https://www.in.tum.de/i13/teaching/winter-semester-201920/advanced-seminar-blockchain-technologies/) (IN2107) at the Technical University of Munich. Within the scope of this course, we analyzed the technical characteristics, advantages as well as limitations of Hyperledger Fabric thoroughly, and proposed a proof-of-concept for a given use case.
 
 # Donate
-BEP - 0x61fEe4591d47105F862cFE15D0c969015e2Fbac5
-
-TRC - TJ8eJtmgQicJR2DdXoANx1JxcU45gpoiWL
-
+BEP - 0x4b4a88e105910a942e7bd63efdec281ab2752411
+TRC - TDkJ2J8y8AnwrsRz4877fimfWfeQ26dS5m
 Thanks
 
